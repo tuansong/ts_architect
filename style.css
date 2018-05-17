@@ -1,0 +1,45 @@
+/*header {
+	background: url(https://unsplash.imgix.net/photo-1414490929659-9a12b7e31907)
+	height: 100vh;
+	background-size: cover;
+
+	padding-top: 30px;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}*/
+
+
+header {
+	background: url(https://www.w3schools.com/w3images/architect.jpg);
+	height: 100vh;
+	background-size: cover;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+h1	{
+	color: white;
+}
+
+.col-lg-3 {
+	height: 100%;
+}
+
+.houses {
+	background: url(https://www.w3schools.com/w3images/house5.jpg);
+	width: 100%;
+	height: 100%;
+	background-size: cover;	
+}
+
+.btn-default {
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+}
